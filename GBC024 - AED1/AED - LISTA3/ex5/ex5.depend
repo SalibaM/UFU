@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692278730 source:c:\users\home\desktop\lista aed 3\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
