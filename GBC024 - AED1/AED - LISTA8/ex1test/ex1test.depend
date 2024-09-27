@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1694637468 source:c:\users\temp.facom.005\desktop\ex1test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1694637468 c:\users\temp.facom.005\desktop\ex1test\prototipos.h
+
+1694879748 source:c:\users\home\desktop\lista - aed 8\ex1test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1694869767 c:\users\home\desktop\lista - aed 8\ex1test\prototipos.h
+
+1694869767 source:c:\users\home\desktop\lista - aed 8\ex1test\corpofuncoes.c
+	"prototipos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

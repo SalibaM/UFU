@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694293427 source:c:\users\ana flavia\desktop\ex4listaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototiposs.h"
+	<string.h>
+
+1694291145 c:\users\ana flavia\desktop\ex4listaa\prototiposs.h
+
+1694295988 source:c:\users\ana flavia\desktop\ex4listaa\corpofuncoes.c
+	"prototiposs.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

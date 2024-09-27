@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694897833 source:c:\users\home\desktop\lista aed - 7\ex4test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1694897667 c:\users\home\desktop\lista aed - 7\ex4test\prototipos.h
+
+1694897689 source:c:\users\home\desktop\lista aed - 7\ex4test\corpofuncoes.c
+	"prototipos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

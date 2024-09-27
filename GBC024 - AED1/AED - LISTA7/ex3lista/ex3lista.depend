@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694292041 source:c:\users\ana flavia\desktop\ex3lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+	<string.h>
+
+1694295492 c:\users\ana flavia\desktop\ex3lista\prototipos.h
+
+1694292878 source:c:\users\ana flavia\desktop\ex3lista\corpofuncoes.c
+	"prototipos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
