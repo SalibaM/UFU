@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691071347 source:c:\users\home\desktop\aed1 - lista1\ex7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
