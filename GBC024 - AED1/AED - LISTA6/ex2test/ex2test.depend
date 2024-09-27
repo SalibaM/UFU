@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1693775193 source:c:\users\home\desktop\ex2test\corpofuncoes.c
+	"prototipos.h"
+	<stdlib.h>
+	<stdio.h>
+
+1693775254 c:\users\home\desktop\ex2test\prototipos.h
+
+1693775500 source:c:\users\home\desktop\ex2test\main.c
+	"prototipos.h"
+	<stdio.h>
+	<stdlib.h>
+

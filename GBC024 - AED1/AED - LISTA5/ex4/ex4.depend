@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693020986 source:c:\users\home\desktop\aed lista 5\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
