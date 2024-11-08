@@ -21,8 +21,7 @@ modelo <- lm(data = cerebelo, formula = Log_body ~ Log_cerebellum) #Modelo linea
 summary(modelo) #Conseguir equação da reta
 
 # A = Intercept
-# B = outra variável    EQUAÇÃO DA RETA : ax + bx + c = 0
-# C = 0
+# B = outra variável    EQUAÇÃO DA RETA : ax + by = 0
 
 cor.test(cerebelo$Log_body,cerebelo$Log_cerebellum) #Teste de hipótese para ver se rejeita ou aceita
 
